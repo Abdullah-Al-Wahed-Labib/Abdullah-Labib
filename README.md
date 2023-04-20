@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdullah-Labib
 - 👀 I’m interested in machine learning and cyber-security
-- 🌱 I’m currently learning python for machine learning
+- 🌱 I’m currently learning python & completing the CompTIA A+, Linux+, Security+ and Network+ Certifications
 - 💞️ I’m looking forward to learn and practice more
 - 📫 How to reach me :
 -                         Twitter : https://twitter.com/Wahed7043
