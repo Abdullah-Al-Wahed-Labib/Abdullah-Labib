@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdullah-Labib |>>| Abdullah Al Wahed
-- 👀 I’m interested in machine learning and cybersecurity
+- 👀 I’m interested in solving hard problems and participating programming contests.
 - 🌱 I’m currently learning C & C++ and solving problems with it.
 - 💞️ I’m looking forward to learn and practice more
 - 📫 How to reach me :
