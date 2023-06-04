@@ -36,8 +36,8 @@ Step into the extraordinary world of **Abdullah Al Wahed**, a prodigious trailbl
 
 📧 **Contact =  wahed.personal@gmail.com**
 
-🐦 **Twitter = ** [Link](https://twitter.com/Wahed7043)
+🐦 **Twitter =** [Visit Profile](https://twitter.com/Wahed7043)
 
-🐈‍⬛ **GitHub = ** [Link](https://github.com/Abdullah-Labib)
+🐈‍⬛ **GitHub =** [Visit Profile](https://github.com/Abdullah-Labib)
 
-🐈 **LeetCode = ** [Link](https://leetcode.com/Abdullah-Al-Wahed/)
+🐈 **LeetCode =** [Visit Profile](https://leetcode.com/Abdullah-Al-Wahed/)
