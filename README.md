@@ -1,4 +1,4 @@
-# 🌟 Abdullah Al Wahed :: Unleashing the Quantum Realm of Problem-Solving 🌟
+# 🌟 Abdullah Al Wahed :: Problem-Solving Extraordinaire 🌟
 
 ### 🔭 Embarking on Cosmic Explorations || Coding Maestro || Purveyor of Profound Knowledge 🔬
 
@@ -38,4 +38,4 @@ Step into the extraordinary world of **Abdullah Al Wahed**, a prodigious trailbl
 
 🐦 **Twitter:** [Twitter](https://twitter.com/Wahed7043)
 
-🐈‍⬛ **GitHub:** [GitHub](https://github.com/abdullahalwahed)
+🐈‍⬛ **GitHub:** [GitHub](https://github.com/Abdullah-Labib)
