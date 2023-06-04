@@ -38,6 +38,6 @@ Step into the extraordinary world of **Abdullah Al Wahed**, a prodigious trailbl
 
 🐦 **Twitter =** [Visit Profile](https://twitter.com/Wahed7043)
 
-🐈‍⬛ **GitHub =** [Visit Profile](https://github.com/Abdullah-Labib)
+🐈‍⬛ **GitHub =** [Visit Profile](https://github.com/Abdullah-Al-Wahed-Labib)
 
 🐈 **LeetCode =** [Visit Profile](https://leetcode.com/Abdullah-Al-Wahed/)
