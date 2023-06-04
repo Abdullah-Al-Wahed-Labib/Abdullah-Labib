@@ -34,7 +34,7 @@ Step into the extraordinary world of **Abdullah Al Wahed**, a prodigious trailbl
 
 
 
-📧 **Contact:** [Gmail](mailto:amarnamlabibne@gmail.com)
+📧 **Contact:** [Gmail](mail:amarnamlabibne@gmail.com)
 
 🐦 **Twitter:** [Link](https://twitter.com/Wahed7043)
 
