@@ -34,10 +34,10 @@ Step into the extraordinary world of **Abdullah Al Wahed**, a prodigious trailbl
 
 
 
-📧 **Contact:** [Gmail](mail:amarnamlabibne@gmail.com)
+📧 **Contact =  wahed.personal@gmail.com**
 
-🐦 **Twitter:** [Link](https://twitter.com/Wahed7043)
+🐦 **Twitter = ** [Link](https://twitter.com/Wahed7043)
 
-🐈‍⬛ **GitHub:** [Link](https://github.com/Abdullah-Labib)
+🐈‍⬛ **GitHub = ** [Link](https://github.com/Abdullah-Labib)
 
-🐈 **LeetCode:** [Link](https://leetcode.com/Abdullah-Al-Wahed/)
+🐈 **LeetCode = ** [Link](https://leetcode.com/Abdullah-Al-Wahed/)
