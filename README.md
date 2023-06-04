@@ -1,6 +1,6 @@
 # 🌟 Abdullah Al Wahed :: Problem-Solving Extraordinaire 🌟
 
-### 🔭 Embarking on Cosmic Explorations || Coding Maestro || Purveyor of Profound Knowledge 🔬
+### 🔭 Embarking on Cosmic Explorations || Coding Maestro || Purveyor of Profound Knowledge 🚀
 
 Greetings, fellow adventurers! Prepare to be mesmerized by the enthralling odyssey of **Wahed**, a 16-year-old prodigy hailing from the bustling city of Dhaka, Bangladesh. Brace yourselves as we delve into the enigmatic depths of his world, where problem-solving merges with the boundless horizons of scientific wonders.
 
@@ -36,6 +36,8 @@ Step into the extraordinary world of **Abdullah Al Wahed**, a prodigious trailbl
 
 📧 **Contact:** [Gmail](mailto:amarnamlabibne@gmail.com)
 
-🐦 **Twitter:** [Twitter](https://twitter.com/Wahed7043)
+🐦 **Twitter:** [Link](https://twitter.com/Wahed7043)
 
-🐈‍⬛ **GitHub:** [GitHub](https://github.com/Abdullah-Labib)
+🐈‍⬛ **GitHub:** [Link](https://github.com/Abdullah-Labib)
+
+🐈 **LeetCode:** [Link](https://leetcode.com/Abdullah-Al-Wahed/)
